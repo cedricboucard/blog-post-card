@@ -5,4 +5,4 @@
 
 Skills : Box Shadow, Card UI, Responsive Design.
 # Screenshot : 
-![capture d'écran](/image.png)
+![capture d'écran](image.png)
